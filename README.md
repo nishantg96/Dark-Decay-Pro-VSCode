@@ -1,3 +1,7 @@
+# [Tokyo Night Pure](https://marketplace.visualstudio.com/items?itemName=nishantg96.dark-decay-pro)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/editor/theme/nishantg96.dark-decay-pro/Dark%20Decay%20Pro)
+
+
 Dark decay Pro is an enhanced version of [Dark Decay](https://github.com/decaycs/decaycs) that comes without any compromises. The backgrounds are slightly darker, ensuring that the foreground elements remain clearly visible without causing any distractions.
 
 ## Screenshots
@@ -13,3 +17,4 @@ Dark decay Pro is an enhanced version of [Dark Decay](https://github.com/decaycs
 
 ## Color Scheme
 This theme is based on the official Dark Decay color scheme.
+
